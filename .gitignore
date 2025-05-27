@@ -1,5 +1,5 @@
 # OSX leaves these everywhere on SMB shares
-._*
+._* 
 
 # OSX trash
 .DS_Store
